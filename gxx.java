@@ -7,3 +7,4 @@ guixinxin的第一个git文件
 23过来搞事情
 
 雷猴啊  坚昌！
+how are you , jianchang!
